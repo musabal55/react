@@ -76,7 +76,7 @@ class OtoparkDetailPage extends React.Component {
 class Harita extends React.Component {
   static navigationOptions = ({ navigation }) => {
     return {
-      title: 'NAVIGATION PROJESI',
+      title: 'NAVIGATION PROJESI appcenter',
     }
   }
   render() {

@@ -22,7 +22,7 @@ class Anasayfa extends React.Component {
     headerTitle: <LogoTitle />,
     headerRight: (
       <Button
-      onPress={() => alert('başlıktaki buton tıklandı!')}
+      onPress={() => alert('başlıktaki buton tıklandı !')}
       title="Bilgi"
       color="gray"
       />

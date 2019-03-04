@@ -1,3 +1,4 @@
 <resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">hBxl7KirmOosTtgLaocP8RuvJ5-BByWgJI5UN</string>
     <string name="app_name">NavigationProje</string>
 </resources>
